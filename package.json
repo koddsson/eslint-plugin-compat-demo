@@ -23,8 +23,6 @@
     }
   },
   "browserslist": [
-    "defaults",
-    "not op_mini all",
-    "not iOS < 16"
+    "defaults"
   ]
 }
