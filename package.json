@@ -23,6 +23,6 @@
     }
   },
   "browserslist": [
-    "defaults"
+    "chrome 49", "safari 10.1", "firefox 44"
   ]
 }
